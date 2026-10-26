@@ -21,7 +21,7 @@ const menuItems = [
   { name: "Billing", path: "/billing", icon: Receipt },
   { name: "Bill History", path: "/bill-history", icon: History },
   { name: "Reports", path: "/reports", icon: ChartNoAxesCombined },
-  { name: "Settings", path: "/settings", icon: Settings },
+  
 ];
 
 async function handleLogout() {
